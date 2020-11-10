@@ -1,0 +1,134 @@
+2020-11-10 10:24:13.728 [,] [main] INFO  c.f.c.CherokeeApplication - [logStarting,55] - Starting CherokeeApplication on LAPTOP-176237KH with PID 11124 (E:\myspacework\back02\version\Cherokee\target\classes started by Lenovo in E:\myspacework\back02\version\Cherokee)
+2020-11-10 10:24:13.731 [,] [main] INFO  c.f.c.CherokeeApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+2020-11-10 10:24:14.698 [,] [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-10 10:24:14.699 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+2020-11-10 10:24:14.699 [,] [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-10 10:24:14.775 [,] [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+2020-11-10 10:24:14.936 [,] [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+2020-11-10 10:24:21.436 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+2020-11-10 10:29:17.632 [,] [main] INFO  c.f.c.CherokeeApplication - [logStarting,55] - Starting CherokeeApplication on LAPTOP-176237KH with PID 3820 (E:\myspacework\back02\version\Cherokee\target\classes started by Lenovo in E:\myspacework\back02\version\Cherokee)
+2020-11-10 10:29:17.634 [,] [main] INFO  c.f.c.CherokeeApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+2020-11-10 10:29:18.496 [,] [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-10 10:29:18.496 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+2020-11-10 10:29:18.496 [,] [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-10 10:29:18.572 [,] [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+2020-11-10 10:29:18.714 [,] [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+2020-11-10 10:29:26.769 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+2020-11-10 10:31:14.406 [,] [main] INFO  c.f.c.CherokeeApplication - [logStarting,55] - Starting CherokeeApplication on LAPTOP-176237KH with PID 20984 (E:\myspacework\back02\version\Cherokee\target\classes started by Lenovo in E:\myspacework\back02\version\Cherokee)
+2020-11-10 10:31:14.410 [,] [main] INFO  c.f.c.CherokeeApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+2020-11-10 10:31:15.529 [,] [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-10 10:31:15.530 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+2020-11-10 10:31:15.531 [,] [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-10 10:31:15.611 [,] [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+2020-11-10 10:31:15.745 [,] [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+2020-11-10 10:31:21.588 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+2020-11-10 10:35:22.310 [,] [main] INFO  c.f.c.CherokeeApplication - [logStarting,55] - Starting CherokeeApplication on LAPTOP-176237KH with PID 18792 (E:\myspacework\back02\version\Cherokee\target\classes started by Lenovo in E:\myspacework\back02\version\Cherokee)
+2020-11-10 10:35:22.313 [,] [main] INFO  c.f.c.CherokeeApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+2020-11-10 10:35:23.224 [,] [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-10 10:35:23.225 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+2020-11-10 10:35:23.225 [,] [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-10 10:35:23.301 [,] [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+2020-11-10 10:35:23.442 [,] [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+2020-11-10 10:35:24.488 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+2020-11-10 10:38:10.176 [,] [main] INFO  c.f.c.CherokeeApplication - [logStarting,55] - Starting CherokeeApplication on LAPTOP-176237KH with PID 6696 (E:\myspacework\back02\version\Cherokee\target\classes started by Lenovo in E:\myspacework\back02\version\Cherokee)
+2020-11-10 10:38:10.179 [,] [main] INFO  c.f.c.CherokeeApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+2020-11-10 10:38:11.236 [,] [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-10 10:38:11.236 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+2020-11-10 10:38:11.237 [,] [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-10 10:38:11.318 [,] [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+2020-11-10 10:38:11.458 [,] [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+2020-11-10 10:38:17.756 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+2020-11-10 11:02:13.702 [,] [main] INFO  c.f.c.CherokeeApplication - [logStarting,55] - Starting CherokeeApplication on LAPTOP-176237KH with PID 21160 (E:\myspacework\back02\version\Cherokee\target\classes started by Lenovo in E:\myspacework\back02\version\Cherokee)
+2020-11-10 11:02:13.708 [,] [main] INFO  c.f.c.CherokeeApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+2020-11-10 11:02:14.770 [,] [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-10 11:02:14.772 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+2020-11-10 11:02:14.772 [,] [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-10 11:02:14.935 [,] [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+2020-11-10 11:02:15.089 [,] [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+2020-11-10 11:02:20.998 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+2020-11-10 11:04:52.041 [,] [main] INFO  c.f.c.CherokeeApplication - [logStarting,55] - Starting CherokeeApplication on LAPTOP-176237KH with PID 18696 (E:\myspacework\back02\version\Cherokee\target\classes started by Lenovo in E:\myspacework\back02\version\Cherokee)
+2020-11-10 11:04:52.047 [,] [main] INFO  c.f.c.CherokeeApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+2020-11-10 11:04:53.038 [,] [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-10 11:04:53.039 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+2020-11-10 11:04:53.039 [,] [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-10 11:04:53.115 [,] [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+2020-11-10 11:04:53.260 [,] [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+2020-11-10 11:04:58.459 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+2020-11-10 11:08:45.864 [,] [main] INFO  c.f.c.CherokeeApplication - [logStarting,55] - Starting CherokeeApplication on LAPTOP-176237KH with PID 16328 (E:\myspacework\back02\version\Cherokee\target\classes started by Lenovo in E:\myspacework\back02\version\Cherokee)
+2020-11-10 11:08:45.877 [,] [main] INFO  c.f.c.CherokeeApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+2020-11-10 11:08:47.185 [,] [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-10 11:08:47.186 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+2020-11-10 11:08:47.186 [,] [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-10 11:08:47.267 [,] [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+2020-11-10 11:08:47.348 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+2020-11-10 11:10:24.922 [,] [main] INFO  c.f.c.CherokeeApplication - [logStarting,55] - Starting CherokeeApplication on LAPTOP-176237KH with PID 21360 (E:\myspacework\back02\version\Cherokee\target\classes started by Lenovo in E:\myspacework\back02\version\Cherokee)
+2020-11-10 11:10:24.928 [,] [main] INFO  c.f.c.CherokeeApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+2020-11-10 11:10:25.858 [,] [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-10 11:10:25.858 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+2020-11-10 11:10:25.859 [,] [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-10 11:10:25.950 [,] [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+2020-11-10 11:10:26.111 [,] [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+2020-11-10 11:10:27.167 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+2020-11-10 11:11:09.337 [,] [main] INFO  c.f.c.CherokeeApplication - [logStarting,55] - Starting CherokeeApplication on LAPTOP-176237KH with PID 2708 (E:\myspacework\back02\version\Cherokee\target\classes started by Lenovo in E:\myspacework\back02\version\Cherokee)
+2020-11-10 11:11:09.342 [,] [main] INFO  c.f.c.CherokeeApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+2020-11-10 11:11:10.703 [,] [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-10 11:11:10.704 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+2020-11-10 11:11:10.704 [,] [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-10 11:11:10.839 [,] [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+2020-11-10 11:11:11.112 [,] [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+2020-11-10 11:11:16.358 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+2020-11-10 11:25:56.154 [,] [main] INFO  c.f.c.CherokeeApplication - [logStarting,55] - Starting CherokeeApplication on LAPTOP-176237KH with PID 8020 (E:\myspacework\back02\version\Cherokee\target\classes started by Lenovo in E:\myspacework\back02\version\Cherokee)
+2020-11-10 11:25:56.157 [,] [main] INFO  c.f.c.CherokeeApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+2020-11-10 11:25:57.137 [,] [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-10 11:25:57.138 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+2020-11-10 11:25:57.138 [,] [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-10 11:25:57.237 [,] [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+2020-11-10 11:25:57.390 [,] [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+2020-11-10 11:25:57.641 [,] [main] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+2020-11-10 11:26:03.212 [,] [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-10 11:26:03.241 [,] [main] INFO  c.f.c.CherokeeApplication - [logStarted,61] - Started CherokeeApplication in 7.583 seconds (JVM running for 8.838)
+2020-11-10 11:27:17.775 [,] [main] INFO  c.f.c.CherokeeApplication - [logStarting,55] - Starting CherokeeApplication on LAPTOP-176237KH with PID 10176 (E:\myspacework\back02\version\Cherokee\target\classes started by Lenovo in E:\myspacework\back02\version\Cherokee)
+2020-11-10 11:27:17.779 [,] [main] INFO  c.f.c.CherokeeApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+2020-11-10 11:27:18.872 [,] [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-10 11:27:18.873 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+2020-11-10 11:27:18.873 [,] [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-10 11:27:18.957 [,] [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+2020-11-10 11:27:19.103 [,] [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+2020-11-10 11:27:19.350 [,] [main] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+2020-11-10 11:27:22.931 [,] [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-10 11:27:22.960 [,] [main] INFO  c.f.c.CherokeeApplication - [logStarted,61] - Started CherokeeApplication in 5.612 seconds (JVM running for 6.935)
+2020-11-10 11:28:05.080 [,] [main] INFO  c.f.c.CherokeeApplication - [logStarting,55] - Starting CherokeeApplication on LAPTOP-176237KH with PID 13308 (E:\myspacework\back02\version\Cherokee\target\classes started by Lenovo in E:\myspacework\back02\version\Cherokee)
+2020-11-10 11:28:05.085 [,] [main] INFO  c.f.c.CherokeeApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+2020-11-10 11:28:06.014 [,] [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-10 11:28:06.014 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+2020-11-10 11:28:06.015 [,] [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-10 11:28:06.090 [,] [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+2020-11-10 11:28:06.231 [,] [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+2020-11-10 11:28:06.593 [,] [main] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+2020-11-10 11:28:10.303 [,] [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-10 11:28:10.330 [,] [main] INFO  c.f.c.CherokeeApplication - [logStarted,61] - Started CherokeeApplication in 5.758 seconds (JVM running for 6.995)
+2020-11-10 11:29:20.885 [,] [http-nio-8080-exec-4] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-10 11:31:12.036 [,] [http-nio-8080-exec-6] INFO  c.f.c.c.VirtualController - [getModelInfo,31] - getModelInfo| name=张三
+2020-11-10 11:32:27.523 [,] [main] INFO  c.f.c.CherokeeApplication - [logStarting,55] - Starting CherokeeApplication on LAPTOP-176237KH with PID 16860 (E:\myspacework\back02\version\Cherokee\target\classes started by Lenovo in E:\myspacework\back02\version\Cherokee)
+2020-11-10 11:32:27.528 [,] [main] INFO  c.f.c.CherokeeApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+2020-11-10 11:32:28.485 [,] [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-10 11:32:28.485 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+2020-11-10 11:32:28.486 [,] [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-10 11:32:28.573 [,] [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+2020-11-10 11:32:28.746 [,] [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+2020-11-10 11:32:29.078 [,] [main] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+2020-11-10 11:32:34.909 [,] [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-10 11:32:34.959 [,] [main] INFO  c.f.c.CherokeeApplication - [logStarted,61] - Started CherokeeApplication in 7.91 seconds (JVM running for 9.241)
+2020-11-10 11:32:39.459 [,] [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-10 11:32:39.507 [,] [http-nio-8080-exec-1] INFO  c.f.c.c.VirtualController - [getModelInfo,31] - getModelInfo| name=张三
+2020-11-10 11:35:55.996 [,] [main] INFO  c.f.c.CherokeeApplication - [logStarting,55] - Starting CherokeeApplication on LAPTOP-176237KH with PID 8332 (E:\myspacework\back02\version\Cherokee\target\classes started by Lenovo in E:\myspacework\back02\version\Cherokee)
+2020-11-10 11:35:56.001 [,] [main] INFO  c.f.c.CherokeeApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+2020-11-10 11:35:57.020 [,] [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-10 11:35:57.021 [,] [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+2020-11-10 11:35:57.021 [,] [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-10 11:35:57.101 [,] [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+2020-11-10 11:35:57.237 [,] [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+2020-11-10 11:35:57.569 [,] [main] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+2020-11-10 11:35:58.465 [,] [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-10 11:35:58.490 [,] [main] INFO  c.f.c.CherokeeApplication - [logStarted,61] - Started CherokeeApplication in 2.95 seconds (JVM running for 4.112)
+2020-11-10 11:36:04.753 [,] [http-nio-8080-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'

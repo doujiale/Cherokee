@@ -1,0 +1,27 @@
+server:
+  port: ${SERVER_PORT:8080}
+  servlet:
+    context-path: /
+
+spring:
+  application:
+    name: Cherokee
+
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://39.106.84.32:3306/model_info?useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull&autoReconnect=true&serverTimezone=UTC
+    username: root
+    password: P@ssw0rd
+
+logging:
+  config: classpath:logback.xml
+
+mybatis-plus:
+  typeAliasesPackage: com.example.gjjcy.entity
+  mapper-locations: classpath:/mapper/*.xml
+
+cherokee:
+  gateway:
+    server:
+      token:
+        enable: false

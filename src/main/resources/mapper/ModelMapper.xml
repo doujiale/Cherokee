@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.freetalk.cherokee.dao.ModelMapper">
+    <select id="selectByName" resultType="com.freetalk.cherokee.entity.ModelEntity">
+        select
+        id,name,weight,created_time,updated_time
+        from model_info where name = #{name}
+    </select>
+</mapper>
